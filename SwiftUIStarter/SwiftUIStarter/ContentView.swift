@@ -13,9 +13,10 @@ struct ContentView: View {
             Text("Hey, Sherlock!")
                 .font(.title)
                 .fontWeight(.medium)
-                .padding(5)
+                .padding(8)
                 .background(Color.orange)
                 .shadow(radius: 3)
+                .cornerRadius(8)
                 .alignmentGuide(HorizontalAlignment.center) { d in
                     return d[HorizontalAlignment.trailing] - 5.0
             }
