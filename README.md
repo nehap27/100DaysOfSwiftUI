@@ -1,36 +1,20 @@
-# basic-repo-template <project title name goes here>
-Basic repository template <project name goes here>
+# 100DaysOfSwiftUI
 
-Basic template for creating repository with MIT license and Readme file with the below format
+Basics of SwiftUI
 
 ## Getting Started
 
+Understanding the basics of SwiftUI components
+
 ### Project Setup
-1. Install Xcode 11.3 or above.
 
+1. Install Xcode 11.5 or above.
 2. Clone the repository. 
-
- * To clone over HTTPS:
-
-     `git clone <git link>`
-
-  * To clone with SSH with an SSH key and passphrase:
-
-     `git clone <git link>`
-
-## Dependencies
-Following Cocoapods are used as dependencies:
-
-`pod 'SwiftLint'`
 
 ## Contribution guidelines ##
 
-* Writing tests
-* Code review
-* Jazzy documentation - `<jazzy link>`
-* Other guidelines
+* Open source with MIT license
 
 ## Who do I talk to? ##
 
 * Repo owner or admin
-* Other community or team contact
