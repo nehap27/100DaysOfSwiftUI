@@ -15,6 +15,7 @@ struct ContentView: View {
                 .fontWeight(.medium)
                 .padding(5)
                 .background(Color.orange)
+                .shadow(radius: 3)
                 .alignmentGuide(HorizontalAlignment.center) { d in
                     return d[HorizontalAlignment.trailing] - 5.0
             }
