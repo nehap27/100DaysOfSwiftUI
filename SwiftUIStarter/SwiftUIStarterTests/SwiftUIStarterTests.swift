@@ -3,7 +3,6 @@
 //  SwiftUIStarterTests
 //
 //  Created by Pujary, Neha on 20/07/20.
-//  Copyright © 2020 Codiopath. All rights reserved.
 //
 
 import XCTest
