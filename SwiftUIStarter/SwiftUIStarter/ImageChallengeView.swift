@@ -13,6 +13,7 @@ struct ImageChallengeView: View {
             Image("flower-1")
                 .resizable()
                 .scaledToFit()
+                .padding(.all, 20.0)
                 .clipShape(Circle())
                 .rotationEffect(Angle(degrees: 45))
                 .overlay(Circle().stroke(Color.purple, lineWidth: 3))
