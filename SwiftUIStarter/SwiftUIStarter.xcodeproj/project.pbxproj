@@ -14,6 +14,7 @@
 		1C3AE33424C5ADAB007C11AE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C3AE33324C5ADAB007C11AE /* Preview Assets.xcassets */; };
 		1C3AE33724C5ADAB007C11AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C3AE33524C5ADAB007C11AE /* LaunchScreen.storyboard */; };
 		1C3AE34224C5ADAB007C11AE /* SwiftUIStarterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3AE34124C5ADAB007C11AE /* SwiftUIStarterTests.swift */; };
+		1C3AE35124C869D2007C11AE /* ImageChallengeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3AE35024C869D2007C11AE /* ImageChallengeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		1C3AE33D24C5ADAB007C11AE /* SwiftUIStarterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIStarterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C3AE34124C5ADAB007C11AE /* SwiftUIStarterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStarterTests.swift; sourceTree = "<group>"; };
 		1C3AE34324C5ADAB007C11AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C3AE35024C869D2007C11AE /* ImageChallengeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageChallengeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				1C3AE32A24C5ADA6007C11AE /* AppDelegate.swift */,
 				1C3AE32C24C5ADA6007C11AE /* SceneDelegate.swift */,
 				1C3AE32E24C5ADA6007C11AE /* ContentView.swift */,
+				1C3AE35024C869D2007C11AE /* ImageChallengeView.swift */,
 				1C3AE33024C5ADAB007C11AE /* Assets.xcassets */,
 				1C3AE33524C5ADAB007C11AE /* LaunchScreen.storyboard */,
 				1C3AE33824C5ADAB007C11AE /* Info.plist */,
@@ -208,6 +211,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C3AE35124C869D2007C11AE /* ImageChallengeView.swift in Sources */,
 				1C3AE32B24C5ADA6007C11AE /* AppDelegate.swift in Sources */,
 				1C3AE32D24C5ADA6007C11AE /* SceneDelegate.swift in Sources */,
 				1C3AE32F24C5ADA6007C11AE /* ContentView.swift in Sources */,
